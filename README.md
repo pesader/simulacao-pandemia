@@ -1,6 +1,6 @@
-# MS211 - Trabalho Computacional
+# Simulação da Pandemia de COVID-19
 
-Simulações da pandemia de COVID-19 a partir de uma implementação do modelo epidemiológico SEIR na linguagem de programação Julia. Isso foi feito com o propósito de avaliar a eficácia do isolamento social como política de mitigação da crise sanitária em diversos cenários.
+Esse repositório contém o trabalho final da matéria de Cálculo Numérico (MS211) na Unicamp, que foi uma simulação da pandemia de COVID-19 a partir de uma implementação do modelo epidemiológico SEIR na linguagem de programação Julia. Isso foi feito com o propósito de avaliar a eficácia do isolamento social como política de mitigação da crise sanitária.
 
 # Crédito
 

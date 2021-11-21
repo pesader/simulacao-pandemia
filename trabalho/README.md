@@ -12,4 +12,4 @@ jupyter notebook
 
 ```
 
-Em seguida, clique no botão ⏩para reiniciar o interpretador de Julia e rodar todas as células de código.
+Em seguida, clique no botão ⏩ para reiniciar o interpretador de Julia e rodar todas as células de código.

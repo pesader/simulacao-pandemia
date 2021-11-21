@@ -15,6 +15,8 @@ begin
 	b = [10:-1:0;]
 	@show(a)
 	@show(b)
+
+	print("Hello world\n")
 end
 
 # ╔═╡ b6c29194-85ab-4f65-9759-9bfabb14bcb1
